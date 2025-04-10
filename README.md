@@ -19,11 +19,11 @@ Oi, meu nome é Raphael Soriano, sou um estudante de Análise e Desenvolvimento 
    <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sorianoxx&theme=panda&utcOffset=8" alt="Productive Time" width="49%"> -->
 </p>
 
-<!-- 
+
 ## Contact me:
 <div>
-  <a href="mailto:yanbr763@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
-  <a href="https://discord.gg/zyN3CVjN"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://wa.me/988272839/?%20text=Oi%20Yan,%20tudo%20bem?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/yan-lima-barbosa-19852927a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div> -->
+  <a href="mailto:brunorapha12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+  <a href="https://discord.gg/CB2ecTK9q2"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://wa.me/998043288/?%20text=Oi%20Soriano,%20tudo%20bem?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/soriano-raphael/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div> 
