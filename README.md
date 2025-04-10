@@ -1,20 +1,29 @@
-- Claro! Aqui está um exemplo para o Raphael:
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Operator&weight=500&size=38&duration=2800&pause=2500&color=F7F7F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Soriano%2C+Welcome+to+my+Profile!" alt="Typing SVG" /></a>
 
----
+<div align="right">
+    <img src="https://komarev.com/ghpvc/?username=sorianoxx&color=blueviolet&for-the-badge" alt="Profile Views" />
+</div>
 
-👋 Hi, I’m Raphael  
-- 👀 I’m interested in technology, CSS,HTML,JAVA,PYTHON, and innovation.  
-- 🌱 I’m currently learning about AI and machine learning.  
-- 💞️ I’m looking to collaborate on projects related to data science and app development.  
-- 📫 You can reach me via email at brunorapha12@gmail.com 
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I once built a robot that can make coffee!
+## Welcome to my GitHub! 😁
 
----
+Oi, meu nome é Raphael Soriano, sou um estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário da Unipê
 
-Você pode personalizar o texto conforme as preferências do Raphael!
+<!-- <img src="https://skillicons.dev/icons?i=nextjs,react,express,prisma,postgres,mongodb,nodejs,tailwind,styledcomponents,vitest,vite,githubactions,netlify,sentry,npm,yarn,git,github,html,css,js,ts" /> -->
 
-<!---
-sorianoxx/sorianoxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Status:
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sorianoxx&theme=panda" alt="Profile Details" width="98.5%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sorianoxx&theme=panda" alt="Top Languages by Commit" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sorianoxx&theme=panda" alt="Top Languages by Repository" width="49%">
+   <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sorianoxx&theme=panda" alt="Stats" width="49%"> -->
+   <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sorianoxx&theme=panda&utcOffset=8" alt="Productive Time" width="49%"> -->
+</p>
+
+<!-- 
+## Contact me:
+<div>
+  <a href="mailto:yanbr763@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+  <a href="https://discord.gg/zyN3CVjN"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://wa.me/988272839/?%20text=Oi%20Yan,%20tudo%20bem?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yan-lima-barbosa-19852927a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div> -->
