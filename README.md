@@ -4,6 +4,9 @@
     <img src="https://komarev.com/ghpvc/?username=sorianoxx&color=blueviolet&for-the-badge" alt="Profile Views" />
 </div>
 
+![3D Contributions](./output/github-contribution-grid-snake.svg)
+
+
 ## Welcome to my GitHub! 😁
 
 Oi, meu nome é Raphael Soriano, sou um estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário da Unipê
