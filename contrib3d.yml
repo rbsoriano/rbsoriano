@@ -1,0 +1,36 @@
+name: Generate 3D Contributions
+
+on:
+  workflow_dispatch: # Permite execução manual
+  schedule:
+    - cron: '0 0 * * 0' # Executa todo domingo
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate 3D contributions image
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          npm run start -- --username ${{ github.repository_owner }}
+
+      - name: Commit and push
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add output/
+          git commit -m "Update 3D contributions image" || echo "No changes to commit"
+          git push
