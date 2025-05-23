@@ -1,35 +1,35 @@
-name: Update Commit Count
+name: Atualizar commits no README
 
 on:
   schedule:
-    - cron: '0 0 * * *' # roda todo dia à meia-noite UTC (pode ajustar)
-  push:
-    branches:
-      - main  # ou a branch que você quiser monitorar
+    - cron: '0 0 * * *' # roda todo dia à meia-noite
+  workflow_dispatch:
 
 jobs:
-  update-commit:
+  update-commits:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
 
-      - name: Get commit count
-        id: commits
-        run: |
-          COUNT=$(git rev-list --count HEAD)
-          echo "commit_count=$COUNT" >> $GITHUB_OUTPUT
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
 
-      - name: Update README with commit count
-        run: |
-          # Substitui o texto placeholder {{commit_count}} pelo número real
-          sed -i "s/{{commit_count}}/${{ steps.commits.outputs.commit_count }}/g" README.md
+      - name: Install dependencies
+        run: npm install node-fetch@2
 
-      - name: Commit and push changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "Update commit count to ${{ steps.commits.outputs.commit_count }}"
-          git push
+      - name: Rodar script para contar commits
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node count-commits.js
+
+      - name: Commitar e pushar atualização
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add commits-count.md
+          git commit -m "Atualizar número de commits"
+          git push
+        continue-on-error: true
