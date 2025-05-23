@@ -1,30 +1,33 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Operator&weight=500&size=38&duration=2800&pause=2500&color=F7F7F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Soriano%2C+Welcome+to+my+Profile!" alt="Typing SVG" /></a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E3963E&height=120&section=header"/>
 
-<div align="right">
-    <img src="https://komarev.com/ghpvc/?username=sorianoxx&color=blueviolet&for-the-badge" alt="Profile Views" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Raphael+Soriano;I'm+23+years+old;I'm+from+Brazil;I'm+majoring+in+Systems+for+Internet;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rbsoriano&show_icons=true&bg_color=00000000&ring_color=E3963E&text_color=E3963E&title_color=E3963E&icon_color=E3963E&include_all_commits=true" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rbsoriano&layout=compact&show_icons=true&bg_color=00000000&ring_color=E3963E&text_color=E3963E&title_color=E3963E&icon_color=E34234"/>
 </div>
+<br>
+
+<div align="center"> 
+
+<!-- <a href="https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
+<!-- <a href = "mailto:jeferson.greenish@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
+<a href="https://www.linkedin.com/in/soriano-raphael/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px">
+</a>
 
 
-## Welcome to my GitHub! 😁
-
-Oi, meu nome é Raphael Soriano, sou um estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário da Unipê
-
-<!-- <img src="https://skillicons.dev/icons?i=nextjs,react,express,prisma,postgres,mongodb,nodejs,tailwind,styledcomponents,vitest,vite,githubactions,netlify,sentry,npm,yarn,git,github,html,css,js,ts" /> -->
-
-## Status:
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rbsoriano&theme=panda" alt="Profile Details" width="98.5%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rbsoriano&theme=panda" alt="Top Languages by Commit" width="49%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rbsoriano&theme=panda" alt="Top Languages by Repository" width="49%">
-   <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sorianoxx&theme=panda" alt="Stats" width="49%"> -->
-   <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sorianoxx&theme=panda&utcOffset=8" alt="Productive Time" width="49%"> -->
-</p>
+  ### Studying in this moment:
+![Springbot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)&nbsp;
+  
 
 
-## Contact me:
-<div>
-  <a href="mailto:brunorapha12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
-  <a href="https://discord.gg/CB2ecTK9q2"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://wa.me/998043288/?%20text=Oi%20Soriano,%20tudo%20bem?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/soriano-raphael/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div> 
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E3963E&height=120&section=footer"/>
