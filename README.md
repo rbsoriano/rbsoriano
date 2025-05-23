@@ -13,9 +13,9 @@ Oi, meu nome é Raphael Soriano, sou um estudante de Análise e Desenvolvimento 
 
 ## Status:
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sorianoxx&theme=panda" alt="Profile Details" width="98.5%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sorianoxx&theme=panda" alt="Top Languages by Commit" width="49%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sorianoxx&theme=panda" alt="Top Languages by Repository" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rbsoriano&theme=panda" alt="Profile Details" width="98.5%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rbsoriano&theme=panda" alt="Top Languages by Commit" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rbsoriano&theme=panda" alt="Top Languages by Repository" width="49%">
    <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sorianoxx&theme=panda" alt="Stats" width="49%"> -->
    <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sorianoxx&theme=panda&utcOffset=8" alt="Productive Time" width="49%"> -->
 </p>
