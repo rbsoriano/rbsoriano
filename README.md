@@ -1,6 +1,6 @@
 ## Welcome to my GitHub! 😁
 
-Hello, my name is Soriano, I'm a student of Systems Analysis and Development at Unipê University Center.
+Hello, my name is Raphael Soriano, I'm a student of Systems Analysis and Development at Unipê University Center.
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind,styledcomponents,vite,npm,git,github,html,css,js,ts" />
 
