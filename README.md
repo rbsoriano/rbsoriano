@@ -10,8 +10,7 @@ Hello, my name is Raphael Soriano, I'm a student of Systems Analysis and Develop
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rbsoriano&theme=github_dark" alt="Top Languages by Commit" width="49%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rbsoriano&theme=github_dark&utcOffset=8" alt="Productive Time" width="49%"> 
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rbsorianoa&theme=github_dark" alt="Top Languages by Repository" width="49%">
+
 </p>
 
 
