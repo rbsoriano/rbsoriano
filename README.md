@@ -1,14 +1,26 @@
-<h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=450&height=65&duration=3000&color=FFF&lines=Welcome+There!+👋;+I'm+Raphael+Soriano!" />
-</h1>
+## Welcome to my GitHub! 😁
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/soriano-raphael/)
-[![Gmail Badge](https://img.shields.io/badge/-1raphaelsoriano@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1raphaelsoriano@gmail.com)](mailto:1raphaelsoriano@gmail.com)
+Hello, my name is Soriano, I'm a student of Systems Analysis and Development at Unipê University Center.
 
-  ### Studying in this moment:
-![JAVASCRIPT](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![Springbot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind,styledcomponents,vite,npm,git,github,html,css,js,ts" />
 
+## Status:
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rbsoriano&theme=github_dark" alt="Profile Details" width="98.5%">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rbsoriano&theme=github_dark" alt="Top Languages by Commit" width="49%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rbsoriano&theme=github_dark&utcOffset=8" alt="Productive Time" width="49%"> 
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rbsorianoa&theme=github_dark" alt="Top Languages by Repository" width="49%">
+</p>
+
+
+
+
+## Contact me:
+<div>
+  <a href="https://www.linkedin.com/in/soriano-raphael//"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:1raphaelsoriano@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://discord.gg/S92qSdX8ZA"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://wa.me/998043288/?%20text=Olá%20Soriano,%20tudo%20bem?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</div>
