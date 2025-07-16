@@ -5,6 +5,9 @@ Hello, my name is Raphael Soriano, I'm a student of Systems Analysis and Develop
 <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind,vite,npm,git,github,html,css,js,ts" />
 
 ## Status:
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rbsoriano&theme=github_dark" alt="Profile Details" width="98.5%">
   
@@ -23,3 +26,5 @@ Hello, my name is Raphael Soriano, I'm a student of Systems Analysis and Develop
   <a href="https://discord.gg/S92qSdX8ZA"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://wa.me/998043288/?%20text=Olá%20Soriano,%20tudo%20bem?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
